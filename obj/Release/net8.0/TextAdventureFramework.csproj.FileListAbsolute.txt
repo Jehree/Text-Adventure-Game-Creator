@@ -1,0 +1,14 @@
+D:\RandomProgrammingProjects\TextAdventureFramework\bin\Release\net8.0\TextAdventureFramework.exe
+D:\RandomProgrammingProjects\TextAdventureFramework\bin\Release\net8.0\TextAdventureFramework.deps.json
+D:\RandomProgrammingProjects\TextAdventureFramework\bin\Release\net8.0\TextAdventureFramework.runtimeconfig.json
+D:\RandomProgrammingProjects\TextAdventureFramework\bin\Release\net8.0\TextAdventureFramework.dll
+D:\RandomProgrammingProjects\TextAdventureFramework\bin\Release\net8.0\TextAdventureFramework.pdb
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\TextAdventureFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\TextAdventureFramework.AssemblyInfoInputs.cache
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\TextAdventureFramework.AssemblyInfo.cs
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\TextAdventureFramework.csproj.CoreCompileInputs.cache
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\TextAdventureFramework.dll
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\refint\TextAdventureFramework.dll
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\TextAdventureFramework.pdb
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\TextAdventureFramework.genruntimeconfig.cache
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Release\net8.0\ref\TextAdventureFramework.dll
