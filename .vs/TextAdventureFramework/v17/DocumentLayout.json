@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\storymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:storymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\types\\savedatanode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:types\\savedatanode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\jsontools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:jsontools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\types\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:types\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|d:\\randomprogrammingprojects\\textadventureframework\\types\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF1F1E8A-345F-4854-AE9C-B76F4E5C490D}|TextAdventureFramework.csproj|solutionrelative:types\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JsonTools.cs",
-              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\JsonTools.cs",
-              "RelativeDocumentMoniker": "JsonTools.cs",
-              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\JsonTools.cs",
-              "RelativeToolTip": "JsonTools.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAMAAAA",
+              "Title": "SaveDataNode.cs",
+              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Types\\SaveDataNode.cs",
+              "RelativeDocumentMoniker": "Types\\SaveDataNode.cs",
+              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Types\\SaveDataNode.cs",
+              "RelativeToolTip": "Types\\SaveDataNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T04:37:02.419Z",
+              "WhenOpened": "2024-07-28T20:00:20.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Constants.cs",
-              "RelativeDocumentMoniker": "Constants.cs",
-              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Constants.cs",
-              "RelativeToolTip": "Constants.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\SaveData.cs",
+              "RelativeDocumentMoniker": "SaveData.cs",
+              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\SaveData.cs",
+              "RelativeToolTip": "SaveData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T04:36:38.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Node.cs",
-              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Node.cs",
-              "RelativeDocumentMoniker": "Node.cs",
-              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Node.cs",
-              "RelativeToolTip": "Node.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T04:16:08.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StoryManager.cs",
-              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\StoryManager.cs",
-              "RelativeDocumentMoniker": "StoryManager.cs",
-              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\StoryManager.cs",
-              "RelativeToolTip": "StoryManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T03:55:48.144Z",
+              "WhenOpened": "2024-07-28T19:13:36.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Command.cs",
-              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Command.cs",
-              "RelativeDocumentMoniker": "Command.cs",
-              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Command.cs",
-              "RelativeToolTip": "Command.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBUAAABRAAAA",
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T03:26:40.484Z",
+              "WhenOpened": "2024-07-28T19:11:34.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Types\\Command.cs",
+              "RelativeDocumentMoniker": "Types\\Command.cs",
+              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Types\\Command.cs",
+              "RelativeToolTip": "Types\\Command.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:02:45.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Types\\Node.cs",
+              "RelativeDocumentMoniker": "Types\\Node.cs",
+              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Types\\Node.cs",
+              "RelativeToolTip": "Types\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:44:15.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAiwB8AAAAzAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T02:46:51.161Z",
+              "WhenOpened": "2024-07-28T18:42:05.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoryManager.cs",
+              "DocumentMoniker": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\StoryManager.cs",
+              "RelativeDocumentMoniker": "StoryManager.cs",
+              "ToolTip": "D:\\RandomProgrammingProjects\\TextAdventureFramework\\StoryManager.cs",
+              "RelativeToolTip": "StoryManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T03:55:48.144Z",
               "EditorCaption": ""
             }
           ]

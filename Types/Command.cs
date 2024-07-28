@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TextAdventureFramework
+namespace TextAdventureFramework.Types
 {
     internal class Command
     {
@@ -30,12 +30,12 @@ namespace TextAdventureFramework
     internal class Actions
     {
         public string[] OnEnable { get; private set; }
-        public string[] OnDisable { get; private set; }
+        public string[] OnExecute { get; private set; }
 
         public Actions(JObject jsonObject)
         {
             OnEnable = jsonObject["on_enable"]?.ToObject<string[]>() ?? [];
-            OnDisable = jsonObject["on_execute"]?.ToObject<string[]>() ?? [];
+            OnExecute = jsonObject["on_execute"]?.ToObject<string[]>() ?? [];
         }
     }
 }

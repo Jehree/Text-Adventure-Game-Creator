@@ -9,6 +9,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Reflection;
 using TextAdventureFramework;
+using TextAdventureFramework.Types;
 
 Main main = new Main();
 main.Run();
@@ -26,10 +27,8 @@ namespace TextAdventureFramework
 
         public void Run()
         {
-            var dirs = Directory.GetDirectories(Constants.StoryPath);
-            var node = StoryManager.GetNode(dirs[0]);
-
-            Console.WriteLine(node.Commands[0].Type);
+            Node storyData = StoryManager.GetGameData(Constants.StoryPath);
+            SaveData.CreateNewSaveData(storyData);
 
             while (true) {
                 AnsiConsole.Markup("[underline green]Enter command[/]: ");
