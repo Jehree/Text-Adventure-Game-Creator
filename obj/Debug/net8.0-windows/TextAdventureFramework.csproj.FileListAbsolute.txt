@@ -16,3 +16,4 @@ D:\RandomProgrammingProjects\TextAdventureFramework\bin\Debug\net8.0-windows\Spe
 D:\RandomProgrammingProjects\TextAdventureFramework\obj\Debug\net8.0-windows\TextAdventureFramework.csproj.AssemblyReference.cache
 D:\RandomProgrammingProjects\TextAdventureFramework\obj\Debug\net8.0-windows\TextAdve.DECEF8F8.Up2Date
 D:\RandomProgrammingProjects\TextAdventureFramework\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\RandomProgrammingProjects\TextAdventureFramework\obj\Debug\net8.0-windows\TextAdventureFramework.sourcelink.json

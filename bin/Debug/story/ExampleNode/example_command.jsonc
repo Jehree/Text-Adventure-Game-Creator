@@ -1,0 +1,75 @@
+[
+    {
+        "name": "example_command_name",
+
+        // type can be "normal" or "doorway".
+        // "normal" type commands can be executed when their parent node is enabled
+        // "doorway" type commands can be executed when their parent is disabled, but their grandparent is enabled
+        // the purpose of "doorway" type commands is to allow one command to act as an entrance of sorts to the node
+        // imagine that the node represents a common room with many entrances. A doorway command can be used so each of the connecting rooms
+        // do not need to each need their own command to enter the common room.
+
+        "type": "normal",
+
+        // aliases are the text the user needs to enter to execute this command
+        "aliases": [ "test command", "howdy" ],
+
+        "actions": {
+
+            // these actions run when this command's parent node is enabled
+            "on_enable": [],
+
+            // these actions run when this command is executed
+            "on_execute": [
+                "WriteLine( {{some_text}} )"
+            ]
+        },
+
+        // variables can be used elsewhere in the command by surrounding their name in double curly brackets
+        // example: "The value of my variable is: {{my_variable_name}}"
+        // note: these variables will only be accesible from within their command. Set a global variable if you need access to it everywhere.
+        "variables": {
+            "some_text": "[italic blue]This is some text put into a variable!! I am only accessible from within my command.[/]"
+        },
+
+        "global_variables": {
+            "important_global_text": "[italic yellow]The text in this variable can be accessed from any command anywhere.[/]"
+        }
+    },
+    {
+        "name": "another_example",
+
+        // type can be "normal" or "doorway".
+        // "normal" type commands can be executed when their parent node is enabled
+        // "doorway" type commands can be executed when their parent is disabled, but their grandparent is enabled
+        // the purpose of "doorway" type commands is to allow one command to act as an entrance of sorts to the node
+        // imagine that the node represents a common room with many entrances. A doorway command can be used so each of the connecting rooms
+        // do not need to each need their own command to enter the common room.
+
+
+        // aliases are the text the user needs to enter to execute this command
+        "aliases": [ "test command", "howdy" ],
+
+        "actions": {
+
+            // these actions run when this command's parent node is enabled
+            "on_enable": [],
+
+            // these actions run when this command is executed
+            "on_execute": [
+                "WriteLine( {{some_text}} )"
+            ]
+        },
+
+        // variables can be used elsewhere in the command by surrounding their name in double curly brackets
+        // example: "The value of my variable is: {{my_variable_name}}"
+        // note: these variables will only be accesible from within their command. Set a global variable if you need access to it everywhere.
+        "variables": {
+            "some_text": "[italic blue]This is some text put into a variable!! I am only accessible from within my command.[/]"
+        },
+
+        "global_variables": {
+            "important_global_text": "[italic yellow]The text in this variable can be accessed from any command anywhere.[/]"
+        }
+    }
+]
